@@ -64,8 +64,8 @@ Automate repetitive tasks for grading submissions in Canvas
 
     - add API_TOKEN and COURSE_ID environment variables to activate
     ```
-      EXPORT API_TOKEN=""
-      EXPORT COURSE_ID=""
+      export API_TOKEN=""
+      export COURSE_ID=""
     ```
 
 
